@@ -12,6 +12,8 @@
 	<dict>
 		<key>22AFE58AB6F51F0BB0F45BBF7F8AEA32E7215778</key>
 		<string>https://github.com/eugeneadt/MU110-Single-View-Application.git</string>
+		<key>345398F09090CA02258E0B150D99972A291E4BD2</key>
+		<string>https://github.com/eugeneadt/MU110-Homework-3.git</string>
 		<key>5A6C7C73F04407FA6C3E5A990D6C87E22923A2EE</key>
 		<string>https://github.com/eugeneadt/MU110-UITableViewController.git</string>
 	</dict>
@@ -21,17 +23,27 @@
 	<dict>
 		<key>22AFE58AB6F51F0BB0F45BBF7F8AEA32E7215778</key>
 		<string>../../../MU110-Single-View-Application</string>
-		<key>5A6C7C73F04407FA6C3E5A990D6C87E22923A2EE</key>
+		<key>345398F09090CA02258E0B150D99972A291E4BD2</key>
 		<string>../..</string>
+		<key>5A6C7C73F04407FA6C3E5A990D6C87E22923A2EE</key>
+		<string>../../../MU110-UITableViewController</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/eugeneadt/MU110-UITableViewController.git</string>
+	<string>https://github.com/eugeneadt/MU110-Homework-3.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5A6C7C73F04407FA6C3E5A990D6C87E22923A2EE</string>
+	<string>345398F09090CA02258E0B150D99972A291E4BD2</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>345398F09090CA02258E0B150D99972A291E4BD2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MU110-Homework-3</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
